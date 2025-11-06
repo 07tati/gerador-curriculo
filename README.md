@@ -35,27 +35,10 @@ Projeto desenvolvido para criar currículos de forma automática, prática e din
 3. Abra o navegador e acesse:  
 http://localhost/gerador-curriculo/index.php
 
-yaml
-Copiar código
 4. Clique em **“Criar Currículo”** no dashboard.  
 5. Preencha todas as etapas do formulário.  
 6. Visualize o currículo gerado na tela.  
 7. Baixe o currículo em PDF ou imprima usando os botões disponíveis.
-
----
-
-## 🗂 Estrutura do projeto
-
-gerador_curriculo/
-├─ index.php # Página inicial
-├─ dashboard.php # Tela principal / dashboard
-├─ formulario.php # Formulário multi-step
-├─ processa_curriculo.php # Processamento e visualização do currículo
-├─ js/
-│ └─ scripts.js # Scripts de navegação, campos dinâmicos e PDF
-├─ css/
-├─ README.md # Este arquivo
-└─ README_figma.pdf # Esboço do Figma (opcional)
 
 ---
 
@@ -69,4 +52,5 @@ gerador_curriculo/
 
 - Vídeo mostrando o funcionamento do projeto:  
 [Link do YouTube – ](COLE_AQUI_SEU_LINK)
+
 
